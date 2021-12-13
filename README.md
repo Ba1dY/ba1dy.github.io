@@ -1,2 +1,2 @@
-# ba1dy.github.io
+# ba1dy.github.io 
 Publication of website via GitHub Pages
